@@ -11,4 +11,4 @@ To link a domain with GitHub pages the script make this actions :
 * Check is the HTTPS certificate is valid
 * Enforce HTTPS on GitHub pages
 
-Basic usage : `python main.py add <sub-domain> <repo-name>` and `python main.py remove <sub-domain> <repo-name>`
+Basic usage : `python main.py add <sub-domain> <repo-name>` and `python main.py remove <sub-domain> <repo-name>`.
